@@ -2,6 +2,10 @@
 
 This project is about building a social media platform when logged In users can write a post, follow and unfollow other singed Up users. Guest users will only be able to see post.
 
+## Live demo
+
+[Live project](https://social-media-website-1.herokuapp.com/)
+
 ## Built With
 
 - Ruby 2.7.1
