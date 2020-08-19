@@ -6,9 +6,6 @@
          <h5 class="card-title"><%= user.name %></h5>
         <span class="profile-link">
 
-          <%= link_to 'See Profile',  user_path(user), class: 'profile-link' %>
-          
-          <button> <%= link_to 'Invite', users_path(user_id: user.id) %> </button>
 
           <%= link_to 'See Profile',  user_path(user), class: "btn  btn-sm btn-secondary" %>
            <%= render_friendships(user) %>
