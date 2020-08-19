@@ -4,7 +4,9 @@ This project is about building a social media platform when logged In users can 
 
 ## Live demo
 
+
 [Live project](https://social-media-website-1.herokuapp.com/)
+
 
 ## Built With
 
@@ -50,6 +52,14 @@ _You can create a post when you are logged In by clicking on the `create post` B
 _You can follow a friend by clicking the `invite` button next to the name of the friend on the `all users` page
 
 ## Authors
+
+👤 **Ignatius Sani**
+
+- Github: [ignatius22](https://github.com/ignatius22)
+- Twitter: [@Iggy_code](https://twitter.com/iggy_code)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ignatiussani)
+
+
 
 👤 **Ignatius Sani**
 
